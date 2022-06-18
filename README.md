@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @rchrdgigan
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning laravel framework and c#.
 - 💞️ I’m looking to collaborate on other developers.
 
 <!---
